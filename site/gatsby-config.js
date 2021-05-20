@@ -32,22 +32,19 @@ module.exports = {
     name: 'BuildItFair',
     description: 'My site description...',
     address: 'New York, NY',
-    email: 'email@example.com',
+    email: 'builditfair@gmail.com',
     phone: '+1 (888) 888-8888',
     siteUrl: "https://builditfair.com",
     //Site Social Media Links
     social: [
       {
-        name: 'Github',
-        url: 'https://github.com/gatsbyjs'
+        name: 'Linkedin',
+        url: 'https://linkedin.com/company/builditfair'
       },
-      {
-        name: 'Twitter',
-        url: 'https://twitter.com/gatsbyjs'
-      },
+
       {
         name: 'Instagram',
-        url: 'https://github.com/gatsbyjs'
+        url: 'https://instagram.com/builditfair'
       }
     ],
 
@@ -68,13 +65,13 @@ module.exports = {
       {
         title: 'Quick Links',
         items: [
-          {
-            name: 'Advertise with us',
-            slug: '/contact'
-          },
+          // {
+          //   name: 'Advertise with us',
+          //   slug: '/contact'
+          // },
           {
             name: 'About Us',
-            slug: '/about'
+            slug: '/contact'
           },
           {
             name: 'Contact Us',
